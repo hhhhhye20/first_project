@@ -1,4 +1,6 @@
 first Line
 edit from local
 edit frome remote
-edit from 1_branch  
+edit from 1_branch 
+edit from master for rebase
+
